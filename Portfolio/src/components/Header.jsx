@@ -1,7 +1,8 @@
 export default function Header() {
     return (
         <div className="Header">
-            <h1>Kyndal LoCascio</h1>
+            <p>Kyndal LoCascio</p>
+            <a href="mailto:KyndalLoCascio@gmail.com?subject=Found Your Portfolio!"><img src="./src/assets/Icons/EmailIcon.png" alt="Email Icon" /> </a>
         </div>
     )
 }

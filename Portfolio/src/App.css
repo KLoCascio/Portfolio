@@ -1,4 +1,66 @@
 * {
     background-color: rgb(34, 31, 31);
     color: white;
+    font-family: 'Play', sans-serif;
+    margin-bottom: 2px;
+}
+
+.Content {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+/* ABOUTPANEL */
+.gameButton {
+    border: white solid 1px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.AboutPanel a {
+    text-decoration: none;
+}
+
+.Buttons {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+/* HEADER */
+.Header {
+    border-bottom: rgb(55, 54, 54) solid 1px;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Header img {
+    width: 40px;
+}
+
+/* HOME */
+
+/* TECHPANEL */
+.Projects {
+    overflow: scroll;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 300px;
+    scrollbar-width: thin;
+    border: 1px white solid;
+}
+
+.TechIcons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.TechIcons img {
+    width: 40px;
 }
