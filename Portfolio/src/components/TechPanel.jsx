@@ -26,6 +26,10 @@ export default function TechPanel() {
             </div>
         </div>
 
+        {/* <div className="Buttons">
+            <button className="gameButton"><a href="https://whacka-moleff7.surge.sh/" target="_blank">Play A Game</a></button>
+        </div> */}
+        
         <div className="TechList">
             <h2>Languages</h2>
             <div className="TechIcons">
@@ -40,15 +44,9 @@ export default function TechPanel() {
                 <img src="/assets/Icons/MongoDB.svg" alt="MongoDB" />
                 <img src="/assets/Icons/NodeJS.svg" alt="NodeJS" />
 
-                <img src="/assets/Icons/Vite.svg" alt="Vite" />
-                <img src="/assets/Icons/Figma.svg" alt="Figma" />
             </div>
             <p>React, JavaScript, CSS, HTML, Python, Django, Express, MongoDB, NodeJS, Vite, Figma</p>
         </div>
-
-        {/* <div className="Buttons">
-            <button className="gameButton"><a href="https://whacka-moleff7.surge.sh/" target="_blank">Play A Game</a></button>
-        </div> */}
 
         <div className="Contact">
             <a href="https://github.com/KLoCascio" target="_blank">GitHub </a> | <a href="https://www.linkedin.com/in/kyndallocascio/" target="_blank"> LinkedIn</a>

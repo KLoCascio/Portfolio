@@ -46,11 +46,16 @@ h1, h2 {
     margin-bottom: 10px;
 }
 
-.AboutPanel a {
+.Buttons a {
     text-decoration: none;
 }
 
 /* TECHPANEL */
+.Projects {
+    padding-bottom: 5px;
+    border-bottom: rgb(55, 54, 54) solid 1px;
+}
+
 .TechIcons {
     display: flex;
     align-items: center;
