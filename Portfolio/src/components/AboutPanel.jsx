@@ -8,7 +8,7 @@ export default function AboutPanel() {
             
             <div className="TechIcons">
             <img src="public/Icons/React.svg" alt="React" />
-            <img src="./public/assets/Icons/JavaScript.svg" alt="JavaScript" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
             <img src="public/assets/Icons/CSS.svg" alt="CSS" />
             <img src="/public/assets/Icons/HTML5.svg" alt="HTML" />
 
