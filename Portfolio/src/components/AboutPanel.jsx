@@ -13,7 +13,7 @@ export default function AboutPanel() {
             <img src="/assets/Icons/HTML5.svg" alt="HTML" />
 
             <img src="/assets/Icons/Python.svg" alt="Python" />
-            <img src="/assets/Icons/ChocoIcon.png" alt="Django" />
+            <img src="/assets/Icons/Django.svg" alt="Django" />
             <img src="/assets/Icons/Express.svg" alt="Express" />
             <img src="/assets/Icons/MongoDB.svg" alt="MongoDB" />
             <img src="/assets/Icons/NodeJS.svg" alt="NodeJS" />
