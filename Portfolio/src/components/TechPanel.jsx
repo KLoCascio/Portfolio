@@ -1,12 +1,7 @@
-// Projects
-// Tech Stacks
-// Play a Game
-
-// Could include mosiac
-
 export default function TechPanel() {
     return (
     <div className="TechPanel">
+        <h2>Projects</h2>
         <div className="Projects">
             <div className="Project">
                 <h2><a href="https://github.com/KLoCascio/DungeonFit" target="_blank">DungeonFit</a></h2>
@@ -26,28 +21,13 @@ export default function TechPanel() {
             </div>
             <div className="Project">
                 <h2><a href="https://github.com/KLoCascio/MCBuild" target="_blank">MCBuild</a></h2>
-                <p>A Full-Stack project utilizing a database built and seded with over 100 objects, allowing the user to build a Main Character, MC.</p>
+                <p>A Full-Stack project utilizing a database built and seeded with over 100 objects, allowing the user to build a Main Character, MC.</p>
                 <p>Tech: MongoDB, Express, NodeJS, JavaScript, CSS, HTML </p>
             </div>
         </div>
-        <div className="TechIcons">
-            <img src="./src/assets/Icons/React.svg" alt="React" />
-            <img src="./src/assets/Icons/JavaScript.svg" alt="JavaScript" />
-            <img src="./src/assets/Icons/CSS.svg" alt="CSS" />
-            <img src="./src/assets/Icons/HTML5.svg" alt="HTML" />
 
-            <img src="./src/assets/Icons/Python.svg" alt="Python" />
-            <img src="./src/assets/Icons/Django.svg" alt="Django" />
-            <img src="./src/assets/Icons/Express.svg" alt="Express" />
-            <img src="./src/assets/Icons/MongoDB.svg" alt="MongoDB" />
-            <img src="./src/assets/Icons/NodeJS.svg" alt="NodeJS" />
-
-            <img src="./src/assets/Icons/Vite.svg" alt="Vite" />
-            <img src="./src/assets/Icons/Figma.svg" alt="Figma" />
-        </div>
-        
         <div className="TechList">
-        <h2>Languages Include:</h2>
+        <h2>Languages</h2>
         <p>React, JavaScript, CSS, HTML, Python, Django, Express, MongoDB, NodeJS, Vite, Figma</p>
         </div>
     </div>
