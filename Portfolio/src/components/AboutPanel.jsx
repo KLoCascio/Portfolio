@@ -7,19 +7,19 @@ export default function AboutPanel() {
             </div>
             
             <div className="TechIcons">
-            <img src="public/Icons/React.svg" alt="React" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
-            <img src="public/assets/Icons/CSS.svg" alt="CSS" />
-            <img src="/public/assets/Icons/HTML5.svg" alt="HTML" />
+            <img src="/assets/Icons/React.svg" alt="React" />
+            <img src="/assets/Icons/JavaScript.svg" alt="JavaScript" />
+            <img src="/assets/Icons/CSS.svg" alt="CSS" />
+            <img src="/assets/Icons/HTML5.svg" alt="HTML" />
 
-            <img src="../public/assets/Icons/Python.svg" alt="Python" />
-            <img src="src/assets/Icons/ChocoIcon.png" alt="Django" />
+            <img src="/assets/Icons/Python.svg" alt="Python" />
+            <img src="/assets/Icons/ChocoIcon.png" alt="Django" />
             <img src="/assets/Icons/Express.svg" alt="Express" />
-            <img src="./assets/Icons/MongoDB.svg" alt="MongoDB" />
-            <img src="./src/assets/Icons/NodeJS.svg" alt="NodeJS" />
+            <img src="/assets/Icons/MongoDB.svg" alt="MongoDB" />
+            <img src="/assets/Icons/NodeJS.svg" alt="NodeJS" />
 
-            <img src="public/assets/Icons/Vite.svg" alt="Vite" />
-            <img src="public/assets/Icons/Figma.svg" alt="Figma" />
+            <img src="/assets/Icons/Vite.svg" alt="Vite" />
+            <img src="/assets/Icons/Figma.svg" alt="Figma" />
         </div>
         
             <div className="Buttons">
